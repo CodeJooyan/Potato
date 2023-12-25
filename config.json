@@ -1,0 +1,22 @@
+{
+    "ProjectName":"Toplearn",
+    "Models":{
+        "User":{
+            "ParentModel":"0",
+            "Name":{
+                "Required":false,
+                "MaxLenght":"350",
+                "Type":"string",
+                "Value"
+            }
+        },
+        "Article":{
+            "ParentModel":"0",
+            "Title":{
+                "Required":false,
+                "MaxLenght":"350",
+                "Type":"string"
+            }
+        }
+    }
+}

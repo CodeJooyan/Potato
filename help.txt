@@ -1,0 +1,11 @@
+this package will generate a full clean architecture
+
+Code Jooyan team
+
+
+* main.ps1
+1. getProjectConfig
+2. templateGenerator
+	|-LayerGenerator
+		|-deleteClass1.cs
+3.modelGenerator
