@@ -1,3 +1,3 @@
 # Potato
 
-Config And Use...!
+Config Simply , use usefully...!
